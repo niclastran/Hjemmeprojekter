@@ -1,0 +1,15 @@
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\bin\Debug\net8.0\LinkedListConsole.exe
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\bin\Debug\net8.0\LinkedListConsole.deps.json
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\bin\Debug\net8.0\LinkedListConsole.runtimeconfig.json
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\bin\Debug\net8.0\LinkedListConsole.dll
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\bin\Debug\net8.0\LinkedListConsole.pdb
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\LinkedListConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\LinkedListConsole.AssemblyInfoInputs.cache
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\LinkedListConsole.AssemblyInfo.cs
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\LinkedListConsole.csproj.CoreCompileInputs.cache
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\LinkedListConsole.sourcelink.json
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\LinkedListConsole.dll
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\refint\LinkedListConsole.dll
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\LinkedListConsole.pdb
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\LinkedListConsole.genruntimeconfig.cache
+C:\Users\thega\Desktop\Git\Hjemmeprojekter\LinkedListConsole\LinkedListConsole\obj\Debug\net8.0\ref\LinkedListConsole.dll
